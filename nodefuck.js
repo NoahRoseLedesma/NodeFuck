@@ -1,3 +1,4 @@
+// Does not include input command
 function toAsii(string)
 {
 	asii = [];
